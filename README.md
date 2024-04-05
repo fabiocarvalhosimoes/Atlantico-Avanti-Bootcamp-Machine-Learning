@@ -1,9 +1,9 @@
 ﻿<div align="center">
-  <h1>"🚀 Welcome to my Portfolio Atlántico Avanti ( Bootcamp Machine Learning"</h1>
+  <h1>"🚀 Welcome to my Portfolio Atlântico Avanti ( Bootcamp Machine Learning"</h1>
 </div>
 
 
-## 🌐 Este repositório está direcionado à inserção de códigos e projetos práticos que que realizei no Bootcamp.
+## 🌐 Este repositório está direcionado à inserção de códigos e projetos práticos que realizei no Bootcamp.
 
 ![image](https://github.com/fabiocarvalhosimoes/Atlantico-Avanti-Bootcamp-Machine-Learning/assets/53985221/8ee3c02e-8a6b-456a-8670-8fbd67106a96)
 
