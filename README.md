@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <h1>"🚀 Welcome to my Portfolio Atlântico Avanti ( Bootcamp Machine Learning"</h1>
+  <h1>"🚀 Welcome to my Portfólio Bootcamp Machine Learning - Atlântico Avanti"</h1>
 </div>
 
 
@@ -8,7 +8,7 @@
 ![image](https://github.com/fabiocarvalhosimoes/Atlantico-Avanti-Bootcamp-Machine-Learning/assets/53985221/8ee3c02e-8a6b-456a-8670-8fbd67106a96)
 
 
-Este portfólio reflete minha jornada de aprendizado com aplicação prática e conhecimentos em cenários reais de Machine Learning. 
+Onde reflete minha jornada de aprendizado com aplicação prática e conhecimentos em cenários reais de Machine Learning. 
 
 
 <!-- **fabiocarvalhosimoes/Fabio-C-Simoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
